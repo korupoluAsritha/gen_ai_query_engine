@@ -159,6 +159,7 @@ npm install && npm rebuild sqlite3
 - Import the Postman collection into Postman.
 
 - Use the pre-configured requests to test all endpoints.
+  ## live link (https://gen-ai-query-engine.onrender.com)
 ---
 ### ✅ Testing with CURL Commands You can also test the API using curl commands:
 
